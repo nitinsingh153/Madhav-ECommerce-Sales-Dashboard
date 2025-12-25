@@ -21,10 +21,14 @@ To design and build a visually appealing and insight-driven dashboard that enabl
 
 ✔ Interactive Filters - Quarter-wise slicers / Dynamic drill-downs / Category and Date filters
 
-🛠 Tools & Technologies Used-----
+🛠 Tools & Technologies Used
+
 Power BI Desktop
+
 Data Modeling
+
 DAX Measures
+
 Data Visualization & Storytelling
 
 
