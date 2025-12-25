@@ -39,3 +39,7 @@ Data Visualization & Storytelling
 🔹 Maharashtra & Madhya Pradesh drive major revenue
 🔹 Printers & Bookcases generate high profit margins
 🔹 Quarterly and monthly profitability trends help identify peak sales periods
+
+Nitin Singh
+
+Aspiring Data Analyst | Excel | SQL | Power BI
