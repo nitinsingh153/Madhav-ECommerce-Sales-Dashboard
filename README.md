@@ -10,6 +10,7 @@ This project showcases an interactive Power BI dashboard developed to analyze th
 To design and build a visually appealing and insight-driven dashboard that enables quick analysis of ecommerce sales data across various dimensions such as category, state, payment mode, and customer profile.
 
 📌 Key Features
+
 ✔ KPI Cards - Total Sales Amount / Total Quantity Sold / Total Profit / Average Order Value (AOV) 
 
 ✔ Trend Analysis - Monthly Profit Breakdown / YoY / Period-wise performance tracking
