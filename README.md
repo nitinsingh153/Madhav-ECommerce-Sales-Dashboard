@@ -11,9 +11,13 @@ To design and build a visually appealing and insight-driven dashboard that enabl
 
 📌 Key Features
 ✔ KPI Cards - Total Sales Amount / Total Quantity Sold / Total Profit / Average Order Value (AOV) 
+
 ✔ Trend Analysis - Monthly Profit Breakdown / YoY / Period-wise performance tracking
+
 ✔ Sales Breakdown - Sales by State / Sales by Customer / Sales by Category & Sub-Category
+
 ✔ Customer & Market Insights - Category-wise quantity sold / Payment-mode contribution / Top-performing customers
+
 ✔ Interactive Filters - Quarter-wise slicers / Dynamic drill-downs / Category and Date filters
 
 🛠 Tools & Technologies Used-----
